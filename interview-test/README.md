@@ -11,7 +11,7 @@ python3 src/app.py "../assets/commands.dat"
 ```
 
 
-Problem Explanination:
+# Problem Explanination:
 
 - Before installing a package, automatically install all the packages it requires.
 
