@@ -1,4 +1,4 @@
-# Note: I did not have much time to complete unit test cases, I created a folder called test folder. That folder will have unit test cases for this project.
+# Note: I did not have much time to complete unit test cases, I created a folder called test folder. In the project strucutre, this folder will have unit test cases.
 
 # Pre-Requisities:
 Python 3
