@@ -1,12 +1,17 @@
-# Note: I did not have much time to complete unit test cases, I created a folder called test folder.
-# execution command: you shold have python 3 
+# Note: I did not have much time to complete unit test cases, I created a folder called test folder. That folder will have unit test cases for this project.
 
+# Pre-Requisities:
+Python 3
+
+# execution command:
+For running this project, in your terminal run following command.
+
+```
 python3 src/app.py "../assets/commands.dat"
+```
 
 
-Requirements
-
-
+Problem Explanination:
 
 - Before installing a package, automatically install all the packages it requires.
 
